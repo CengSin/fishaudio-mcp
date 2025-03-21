@@ -1,0 +1,11 @@
+[project]
+name = "fish-autio-python-example"
+version = "0.1.0"
+description = "使用 Fish Audio API 的文字转语音 MCP 服务"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fish-audio-sdk",
+    "mcp",
+    "python-dotenv",
+]
