@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cengsin-fishaudio-mcp-badge.png)](https://mseep.ai/app/cengsin-fishaudio-mcp)
+
 # Fish Audio Python MCP 服务
 
 这是一个使用 Fish Audio API 实现的文字转语音 MCP 服务。通过这个服务，您可以将文本转换为自然的人声，支持多种配置选项。
